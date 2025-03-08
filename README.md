@@ -4,45 +4,52 @@
 </p>
 
 ---
-
 ## 🛠 Tech Stack  
 
 ### 💡 Back-End  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)  
-![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)  
-![REST API](https://img.shields.io/badge/RESTful_API-FF6F00?style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_API-FF6F00?style=flat-square"/>
+</p>
 
 ### 🎨 Front-End  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Tiptap](https://img.shields.io/badge/Tiptap-6E57E0?style=flat-square)  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tiptap-6E57E0?style=flat-square"/>
+</p>
 
 ### 🛠 DevOps & OS  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+</p>
 
 ### 🤝 Collaboration & Project Management  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔥 Projects  
 
-### 🎬 Movie Reservation System (영화 예매 웹 애플리케이션)  
+### 🎬 Cinema Project (영화 예매 웹 애플리케이션)  
 📆 **2025.01 - 2025.02**  
 💡 **Spring Boot 기반의 RESTful API + MySQL + JSP + jQuery 활용한 영화 예매 시스템**  
 
@@ -56,7 +63,7 @@
 
 ---
 
-### 💼 CareerProject - AI 기반 채용 & 이력서 관리 플랫폼  
+### 💼 Career Project - 채용 & 이력서 관리 플랫폼  
 📆 **2025.03 - 진행 중**  
 💡 **Spring Boot + MySQL + MyBatis + React 기반의 풀스택 프로젝트**  
 
@@ -86,9 +93,8 @@
 ---
 
 ## 📌 Contact & More  
-📧 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🔗 **GitHub**: [Your GitHub Profile](https://github.com/your-profile)  
+📧 **Email**: dpdlcl0111@gmail.com  
+🔗 **GitHub**: [My GitHub Profile](https://github.com/dpdlcl0111)  
 
 ---
 
