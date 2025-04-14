@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi, I'm Donghwa! 👋</h1>  
 <p align="center">
-💻 Back-End Developer | API & DB 설계 | 프로젝트 운영 & 협업  
+💻 Back-End Developer | 구조적 설계 · API 설계 · 데이터 기반 문제 해결  
 </p>
 
 ---
@@ -12,10 +12,11 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-00B4AB?style=flat-square"/>
   <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_API-FF6F00?style=flat-square"/>
 </p>
 
 ### 🎨 Front-End  
@@ -23,14 +24,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tiptap-6E57E0?style=flat-square"/>
 </p>
 
 ### 🛠 DevOps & OS  
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 </p>
@@ -49,53 +48,62 @@
 
 ## 🔥 Projects  
 
-### 🎬 Cinema Project (영화 예매 웹 애플리케이션)  
+### 🎬 CineFeel – 영화 예매 웹 애플리케이션  
 📆 **2025.01 - 2025.02**  
-💡 **Spring Boot 기반의 RESTful API + MySQL + JSP + jQuery 활용한 영화 예매 시스템**  
+💡 **Java + MyBatis + JSP 기반의 전통적 MVC 구조**  
 
-✅ **KOBIS API & Selenium 크롤링을 활용한 실시간 예매율 데이터 업데이트 기능**  
-✅ **TMDB API 활용 → 영화 포스터, 줄거리, 배우 정보 DB 저장**  
-✅ **YouTube API 연동 → 영화 예고편 자동 검색 & 출력**  
-✅ **관리자 페이지 → 영화 관리 & 상영 시간표 설정 기능 개발**  
-✅ **Git을 활용한 팀원 코드 통합 & 브랜치 관리**  
+- TMDB, KOFIC API + Selenium 크롤링으로 영화 정보 통합
+- 실시간 예매율 기반 상영 시간표 자동 배치 알고리즘 구현 (10관 × 16개 지역)
+- 관리자 기능: 영화 등록, 상영 편성 자동화, 공지/이벤트 게시판 관리
+- YouTube API를 활용한 예고편 삽입 / 리뷰, 평점 기능 구현
+- 23개 테이블 기반 DB 설계 및 쿼리 최적화
+- JavaScript + jQuery + AJAX를 통한 사용자 중심 UI 연동
 
-🔗 **[프로젝트 리포지토리 보기](https://github.com/your-repo)**  
-
----
-
-### 💼 Career Project - 채용 & 이력서 관리 플랫폼  
-📆 **2025.03 - 진행 중**  
-💡 **Spring Boot + MySQL + MyBatis + React 기반의 풀스택 프로젝트**  
-
-✅ **이력서 작성 기능 → React tiptap 기반 에디터 & 드래그 앤 드롭 지원**  
-✅ **자기소개서 AI 코칭 기능 → ChatGPT API 연동**  
-✅ **JWT 기반 관리자 로그인 시스템 개발**  
-✅ **결제 API 연동 (Toss, KakaoPay, NaverPay)**  
-✅ **GitHub Issues & Projects를 활용한 협업 & 일정 관리**  
-
-🔗 **[프로젝트 리포지토리 보기](https://github.com/your-repo)**  
+🔗 **[프로젝트 리포지토리 보기](https://github.com/dpdlcl01/CinemaProject)**  
 
 ---
 
-## 📈 GitHub 협업 & 프로젝트 관리 경험  
-✅ **Git을 활용한 팀 프로젝트 통합 및 브랜치 전략 적용 (`main - develop - feature`)**  
-✅ **GitHub Issues & Projects 활용 → 칸반보드 기반 일정 관리**  
-✅ **Pull Request & 코드 리뷰 경험 다수 → 코드 품질 유지 & 협업 최적화**  
-✅ **API 명세서 작성 → 프론트 & 백엔드 협업 최적화**  
+### 💼 MeetU – AI 기반 커리어 매칭 플랫폼  
+📆 **2025.03 - 2025.04**  
+💡 **Spring Boot + JPA + FastAPI 기반의 AI·데이터 분석 플랫폼**  
+
+- 일정 조율, 기능 분배, 브랜치 전략 설계 및 코드 병합 총괄
+- OpenAI Embedding API + FastAPI로 자기소개서 직무 적합도 분석 기능 구현
+- Docker + GitHub Actions → EC2 자동 배포
+- S3 Presigned URL을 이용한 이미지/파일 업로드 기능 구축
+- JWT 기반 관리자 로그인 시스템 개발
+- 결제 API 연동 (Toss, KakaoPay, NaverPay)
+
+🔗 **[Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)**  
+🔗 **[AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)**  
+🔗 **[Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)**  
 
 ---
 
-## 📚 My Dev Notes  
-📌 **TIL (Today I Learned)** → 매일 학습 내용을 정리하며 기록합니다.  
-📌 **옵시디언을 활용하여 프로젝트 경험과 문제 해결 과정을 정리합니다.**  
-📌 **API 설계 및 최적화, 성능 개선 관련 연구를 꾸준히 진행합니다.**  
+## 📈 프로젝트 협업 경험  
+- GitHub Flow 기반 브랜치 전략(`main - develop - feature`) 운영  
+- Confluence & Jira 기반 일정 관리, API 명세 공유  
+- PR 리뷰 기반 코드 품질 유지 & 효율적인 협업 구조 설계  
+- 설계 → 문서화 → 구현 → 리팩토링의 일련 과정 주도 경험
 
 ---
 
-## 📌 Contact & More  
+## 📚 기록하는 개발자  
+- 옵시디언을 기반으로 기술 개념, 프로젝트 문제 해결 과정 정리  
+- 주요 주제: JPA 최적화, REST API 설계, ERD 설계, AI 연동 로직  
+- TIL & WIL 작성 습관을 통해 학습 내용을 축적하고 공유
+
+📘 **개발 문서 저장소 (Obsidian Publish)**  
+- 👉 [https://dev-donghwa.pages.dev/](https://dev-donghwa.pages.dev/)  
+- 학습 내용, 프로젝트 경험, 설계 흐름, 성능 개선 사례 정리
+
+---
+
+## 📌 Contact
 📧 **Email**: dpdlcl0111@gmail.com  
-🔗 **GitHub**: [My GitHub Profile](https://github.com/dpdlcl0111)  
+🔗 **GitHub**: [https://github.com/dpdlcl0111](https://github.com/dpdlcl0111)
+🔗 **Blog**: [https://dev-donghwa.pages.dev/](https://dev-donghwa.pages.dev/)
 
 ---
 
-💡 **"효율적인 개발 & 협업을 지향하며, 유지보수와 확장성을 고려한 코드를 작성하는 개발자가 되기 위해 노력하고 있습니다!"** 🚀  
+**"기능 구현을 넘어, 구조적 설계와 데이터 중심의 사고로 사용자에게 가치를 전하는 개발자가 되겠습니다."** 
