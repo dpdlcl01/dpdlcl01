@@ -102,7 +102,7 @@
 ## 📌 Contact
 📧 **Email**: dpdlcl0111@gmail.com  
 🔗 **GitHub**: [https://github.com/dpdlcl0111](https://github.com/dpdlcl0111)
-🔗 **Blog**: [https://dev-donghwa.pages.dev/](https://dev-donghwa.pages.dev/)
+🔗 **Blog**: [https://dev-donghwa.pages.dev](https://dev-donghwa.pages.dev)
 
 ---
 
