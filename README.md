@@ -13,7 +13,6 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
   - **Full Stack Developer**
   - Backend · Frontend · DevOps · AI Services · Database
 
----
 
 - 💼 **2025.03 ~ 2025.04**
   - **MeetU – AI 기반 커리어 매칭 플랫폼 (Team Lead / Full Stack Developer)**
@@ -25,12 +24,10 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
     - 35개 테이블 DB 설계
   - 🔗 [Backend](https://github.com/dpdlcl01/meet-u-career-backend) / [AI](https://github.com/dpdlcl01/meet-u-career-ai) / [Frontend](https://github.com/dpdlcl01/meet-u-career-frontend)
 
----
 
 - 🏅 **2025.03**
   - **데이터분석 준전문가(ADsP) 취득**
 
----
 
 - 🎬 **2025.01 ~ 2025.02**
   - **CineFeel – 영화 예매 웹 애플리케이션 (Team Lead / Full Stack Developer)**
@@ -41,12 +38,10 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
     - 23개 테이블 DB 설계
   - 🔗 [Repository](https://github.com/dpdlcl01/CinemaProject)
 
----
 
 - 🏅 **2024.12**
   - **SQL 개발자(SQLD) 취득**
 
----
 
 - 🏅 **2024.09**
   - **정보처리기사(Engineer Information Processing) 취득**
