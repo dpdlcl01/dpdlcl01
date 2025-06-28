@@ -19,18 +19,18 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 ## 🧰 Tech Stack
 
 ### Backend (Java / Python)
-- Java / Spring Boot / JPA / QueryDSL / MyBatis / JWT
-- Python / FastAPI
-- MySQL / PostgreSQL
+- **Java**: Spring Boot, JPA, QueryDSL, MyBatis, Spring Security, JWT
+- **Python**: FastAPI, SQLAlchemy, Alembic, OpenAI API
+- **Database**: MySQL, PostgreSQL
 
 ### Frontend
-- React / Next.js / JavaScript
+- React, Next.js, JavaScript, TypeScript
 
 ### DevOps & Cloud
-- Docker / AWS EC2 / S3 / GitHub Actions / Linux / Ubuntu
+- Docker, AWS EC2, S3, GitHub Actions, Linux, Ubuntu
 
 ### Collaboration & Tools
-- GitHub / Jira / Confluence / Figma / Slack
+- GitHub, Jira, Confluence, Figma, Slack
 
 ---
 
@@ -41,8 +41,8 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 | **기간** | 2025.01 ~ 2025.02 | 2025.03 ~ 2025.04 |
 | **역할** | Team Lead / Full Stack Developer | Team Lead / Full Stack Developer |
 | **주요 기술** | Java, MyBatis, JSP, JavaScript, jQuery | Spring Boot, JPA, FastAPI, React, Docker, AWS |
-| **프로젝트 개요** | 실시간 예매율 기반 상영 시간표 자동 편성 및 예매 시스템 구축 | AI 기반 자기소개서 분석 및 커리어 매칭 플랫폼 개발 |
-| **핵심 경험** | - 예매율 기반 상영 시간표 자동 배정 로직 개발<br>- 영화 API 및 크롤링 데이터 통합<br>- 23개 테이블 기반 DB 설계 | - FastAPI 기반 AI 분석 서비스 개발<br>- OpenAI Embedding API 연동<br>- Docker + GitHub Actions CI/CD 구축<br>- 35개 테이블 기반 DB 설계 |
+| **프로젝트 개요** | 상영 시간표 자동 편성 및 예매 시스템 구축 | AI 기반 자기소개서 분석 및 커리어 매칭 플랫폼 개발 |
+| **핵심 경험** | - 실시간 예매율 기반 상영 시간표 자동 배정 로직 개발<br>- 영화 API 및 크롤링 데이터 통합<br>- 23개 테이블 기반 DB 설계 및 최적화 | - FastAPI 기반 AI 분석 서비스 개발<br>- OpenAI Embedding API 연동<br>- Docker + GitHub Actions CI/CD 구축<br>- 35개 테이블 기반 DB 설계 |
 | **Repository** | [🔗 Repository](https://github.com/dpdlcl01/CinemaProject) | [🔗 Backend](https://github.com/dpdlcl01/meet-u-career-backend)<br>[🔗 AI Service](https://github.com/dpdlcl01/meet-u-career-ai)<br>[🔗 Frontend](https://github.com/dpdlcl01/meet-u-career-frontend) |
 
 ---
@@ -50,8 +50,8 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 ## 🏅 Certificates
 
 - 정보처리기사 (Engineer Information Processing) – 2024.09
-- SQL 개발자(SQLD) – 2024.12
-- ADSP (Advanced Data Analytics Semi-Professional) – 2025.03
+- SQL 개발자 (SQL Developer, SQLD) – 2024.12
+- 데이터분석 준전문가 (Advanced Data Analytics Semi-Professional, ADsP) – 2025.03
 
 ---
 
