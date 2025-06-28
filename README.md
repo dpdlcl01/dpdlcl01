@@ -7,7 +7,7 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 
 ---
 
-## 🕒 Career Timeline
+## 🗂️ Career Timeline
 
 - 🚀 **Now**
   - **Full Stack Developer**
@@ -17,8 +17,8 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 
 - 💼 **2025.03 ~ 2025.04**
   - **MeetU – AI 기반 커리어 매칭 플랫폼 (Team Lead / Full Stack Developer)**
-  - **Tech Stack**: Spring Boot, FastAPI, React, Docker, AWS
-  - **Core Contributions**:
+  - **주요 기술**: Spring Boot, JPA, FastAPI, React, Docker, AWS
+  - **주요 경험**:
     - FastAPI 기반 AI 분석 서비스 개발
     - OpenAI Embedding API 연동
     - Docker + GitHub Actions CI/CD 구축
@@ -34,8 +34,8 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 
 - 🎬 **2025.01 ~ 2025.02**
   - **CineFeel – 영화 예매 웹 애플리케이션 (Team Lead / Full Stack Developer)**
-  - **Tech Stack**: Java, MyBatis, JSP, JavaScript
-  - **Core Contributions**:
+  - **주요 기술**: Java, MyBatis, JSP, JavaScript
+  - **주요 경험**:
     - 실시간 예매율 기반 상영 시간표 자동 배정 로직 개발
     - 영화 API 및 크롤링 데이터 통합
     - 23개 테이블 DB 설계
