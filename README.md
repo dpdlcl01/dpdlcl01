@@ -1,7 +1,7 @@
 <h1 align="center">👋 안녕하세요, 풀스택 개발자 홍동화입니다</h1>
 
 <p align="center">
-Java · Python · Spring Boot · FastAPI · React 기반 Full Stack Developer  
+Java · Python · Spring Boot · FastAPI · React 기반 Full Stack Developer<br/>
 API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 </p>
 
