@@ -1,26 +1,26 @@
-<h1 align="center">🚀 안녕하세요, 풀스택 개발자 홍동화입니다 👋</h1>
+<h1 align="center">안녕하세요, 풀스택 개발자 홍동화입니다 👋</h1>
 
 <p align="center">
-Java · Spring Boot · FastAPI · React 기반의 Full Stack Developer  
+Java · Spring Boot · FastAPI · React 기반 Full Stack Developer  
 API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 - Java와 Python 기반의 백엔드 중심 풀스택 개발자
-- Spring Boot, FastAPI, React/Next.js 환경에서 Back-End부터 Front-End까지 전반적인 개발 경험
-- REST API 설계, DB 모델링, CI/CD 파이프라인 구축 및 AWS 기반 서비스 배포 경험
-- Jira · Confluence · Slack 등을 활용한 팀 협업과 문서화 경험
-- 기술 블로그 및 Obsidian을 통한 꾸준한 학습 및 기록
+- Spring Boot, FastAPI, React/Next.js 환경에서 Back-End부터 Front-End까지 개발 경험
+- REST API 설계, 데이터베이스 모델링, CI/CD 파이프라인 구축 및 AWS 기반 서비스 배포 경험
+- Jira · Confluence · Slack 등을 활용한 팀 협업 및 문서화 경험
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-- Java / Spring Boot / JPA / QueryDSL / MyBatis / FastAPI / JWT
+### Backend (Java / Python)
+- Java / Spring Boot / JPA / QueryDSL / MyBatis / JWT
+- Python / FastAPI
 - MySQL / PostgreSQL
 
 ### Frontend
@@ -34,38 +34,16 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 
 ---
 
-## 💼 Projects
+## 📂 Projects
 
-### 🎬 CineFeel – 영화 예매 웹 애플리케이션  
-**Period**: 2025.01 ~ 2025.02  
-**Role**: Back-End Developer (Full Stack Contribution)  
-**Tech Stack**: Java, MyBatis, JSP, JavaScript, jQuery  
-
-**Key Contributions**:
-- 실시간 예매율 기반 상영 시간표 자동 배정 로직 구현
-- TMDB, KOFIC API 및 Selenium 크롤링 기반 영화 데이터 통합
-- 23개 테이블 기반 데이터베이스 설계 및 SQL 성능 최적화
-- 관리자 기능, 공지사항, 리뷰/평점 기능 구현
-
-🔗 [Repository](https://github.com/dpdlcl01/CinemaProject)
-
----
-
-### 💼 MeetU – AI 기반 커리어 매칭 플랫폼  
-**Period**: 2025.03 ~ 2025.04  
-**Role**: Team Lead / Full Stack Developer  
-**Tech Stack**: Spring Boot, JPA, FastAPI, React, Docker, AWS  
-
-**Key Contributions**:
-- 팀장 역할: 일정·브랜치 전략 수립, 코드 리뷰 및 병합
-- FastAPI + OpenAI Embedding API 기반 자기소개서 직무 적합도 분석 서비스 개발
-- S3 Presigned URL 활용 이미지/파일 업로드 기능 구현
-- Docker + GitHub Actions 기반 EC2 자동 배포 구축
-- 관리자 로그인 및 결제 API(Toss, KakaoPay, NaverPay) 연동
-
-🔗 [Backend](https://github.com/dpdlcl01/meet-u-career-backend)  
-🔗 [AI Service](https://github.com/dpdlcl01/meet-u-career-ai)  
-🔗 [Frontend](https://github.com/dpdlcl01/meet-u-career-frontend)
+| | CineFeel | MeetU |
+|---|---|---|
+| **기간** | 2025.01 ~ 2025.02 | 2025.03 ~ 2025.04 |
+| **역할** | Team Lead / Full Stack Developer | Team Lead / Full Stack Developer |
+| **주요 기술** | Java, MyBatis, JSP, JavaScript, jQuery | Spring Boot, JPA, FastAPI, React, Docker, AWS |
+| **DB 테이블 수** | 23개 | 35개 |
+| **핵심 경험** | - 예매율 기반 상영 시간표 자동 배정<br>- 영화 API 및 크롤링 데이터 통합<br>- DB 설계 및 최적화 | - FastAPI 기반 AI 분석 서비스 개발<br>- OpenAI Embedding API 연동<br>- Docker + GitHub Actions CI/CD 구축<br>- 35개 테이블 기반 DB 설계 |
+| **Repository** | [🔗 Repository](https://github.com/dpdlcl01/CinemaProject) | [🔗 Backend](https://github.com/dpdlcl01/meet-u-career-backend)<br>[🔗 AI Service](https://github.com/dpdlcl01/meet-u-career-ai)<br>[🔗 Frontend](https://github.com/dpdlcl01/meet-u-career-frontend) |
 
 ---
 
