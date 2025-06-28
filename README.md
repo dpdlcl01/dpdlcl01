@@ -9,14 +9,13 @@ API 설계 · DB 모델링 · 데이터 중심 개발 · DevOps 경험
 
 ## 🏃‍♂️ Career Timeline
 
-### 🚀 Now: Full Stack Developer
+### Now: Full Stack Developer
 Backend · Frontend · DevOps · AI Services · Database  
-**"Keep building, keep learning."**
 
 ---
 
-- 💼 **2025.03 ~ 2025.04**
-  - **MeetU – AI 기반 커리어 매칭 플랫폼 (Team Lead / Full Stack Developer)**
+- **2025.03 ~ 2025.04**
+  - **💼 MeetU – AI 기반 커리어 매칭 플랫폼 (Team Lead / Full Stack Developer)**
   - **주요 기술**: Spring Boot, JPA, FastAPI, React, Docker, AWS
   - **주요 경험**:
     - FastAPI 기반 AI 분석 서비스 개발
@@ -27,13 +26,13 @@ Backend · Frontend · DevOps · AI Services · Database
 
 ---
 
-- 🏅 **2025.03**
-  - **데이터분석 준전문가(ADsP) 취득**
+- **2025.03**
+  - **🏅 데이터분석 준전문가(ADsP) 취득**
 
 ---
 
-- 🎬 **2025.01 ~ 2025.02**
-  - **CineFeel – 영화 예매 웹 애플리케이션 (Team Lead / Full Stack Developer)**
+- **2025.01 ~ 2025.02**
+  - **🎬 CineFeel – 영화 예매 웹 애플리케이션 (Team Lead / Full Stack Developer)**
   - **주요 기술**: Java, MyBatis, JSP, JavaScript
   - **주요 경험**:
     - 실시간 예매율 기반 상영 시간표 자동 배정 로직 개발
@@ -43,13 +42,13 @@ Backend · Frontend · DevOps · AI Services · Database
 
 ---
 
-- 🏅 **2024.12**
-  - **SQL 개발자(SQLD) 취득**
+- **2024.12**
+  - **🏅 SQL 개발자(SQLD) 취득**
 
 ---
 
-- 🏅 **2024.09**
-  - **정보처리기사(Engineer Information Processing) 취득**
+- **2024.09**
+  - **🏅 정보처리기사(Engineer Information Processing) 취득**
 
 ---
 
